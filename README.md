@@ -2,6 +2,7 @@
 
 Bu proje, bir bilet satış platformunun tüm temel işlevlerini (Kayıt, Giriş, Sefer Arama, Bilet Alma ve İptal, Yönetici Panelleri) kapsayan tam teşekküllü bir web uygulamasıdır. Proje, Siber Vatan Yavuzlar takımı seçmeleri için Serdar Umut Turan tarafından geliştirilmiştir.
 
+#Dikkat giriş yaptıktan sonra aşağıdaki çalıştırma talimatlarını uygulayın ve sonrasında http://localhost:8080/init_db.php burayı bir ziyaret edin :D keyifli olacaktır.
 ---
 
 ## Güvenlik ve Mimari Vurguları (OWASP Top 10)
@@ -53,3 +54,4 @@ Proje, hassas verilere karşı siber güvenlik tehditlerini en aza indirmek içi
 **Geliştiren:** Serdar Umut Turan
 
 ***
+
