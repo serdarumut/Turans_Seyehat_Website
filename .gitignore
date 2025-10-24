@@ -1,0 +1,11 @@
+
+/data/*.sqlite
+
+.env
+.idea
+.vscode
+
+composer.lock
+/vendor/composer/
+
+*.log
