@@ -24,7 +24,7 @@ Proje, hassas verilere karşı siber güvenlik tehditlerini en aza indirmek içi
 
 ---
 
-## 💻 Teknolojik Yığın ve Kurulum
+## Teknolojik Yığın ve Kurulum
 
 * **Backend:** PHP 8.3
 * **Veritabanı:** SQLite3
@@ -51,4 +51,5 @@ Proje, hassas verilere karşı siber güvenlik tehditlerini en aza indirmek içi
 
 ***
 **Geliştiren:** Serdar Umut Turan
+
 ***
